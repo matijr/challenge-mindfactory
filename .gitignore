@@ -12,6 +12,7 @@ override.tf.json
 *_override.tf.json
 .terraformrc
 .terraform.d/
+redis/
 
 # Helm
 *.tgz
@@ -19,3 +20,4 @@ override.tf.json
 .chart-releaser.yaml
 .releaser.yaml
 .DS_Store
+data/
